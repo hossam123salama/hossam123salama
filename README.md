@@ -26,7 +26,7 @@
 <br>
 <h1 align="left">Connect With Me </h1>
 <p align="left">
-<a href="linkedin.com/in/hossam-salama-034658217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-adel-b46783280" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hossam-salama-034658217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjJZddm1cSp2yhsOF3CHnvg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-adel-b46783280" height="30" width="40" /></a>
 
 </p>
 
