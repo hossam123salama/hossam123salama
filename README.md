@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **hossam.222salama@gmail.com**
 
-- 📄 Know about my experiences ( My CV )==> [Check It Out ](https://drive.google.com/file/d/12SPalLmk5VEeqkb2-hPp8ZirXWRI-rRQ/view?usp=sharing)
+- 📄 Know about my experiences ( My CV )==> [Check It Out ]()
 <br>
 <h1 align="left">Connect With Me </h1>
 <p align="left">
