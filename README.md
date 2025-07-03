@@ -256,13 +256,13 @@
   <a href="mailto:hossam.222salama@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/+201234567890" target="_blank">
+  <a href="https://wa.me/+201098242769" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
   </a>
   <a href="https://t.me/hossamsalama" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
   </a>
-  <a href="https://github.com/husseinadel7">
+  <a href="https://github.com/hossam123salama">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
   <a href="https://twitter.com/hossamsalama" target="_blank">
