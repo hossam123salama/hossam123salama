@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Next-Gen+Web+Solutions;⚡+Angular+%26+React+Specialist;🌐+Cloud+Architecture+Expert;💡+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Next-Gen+Web+Solutions;⚡+.NET+Core+%26+Angular+Specialist;🌐+Cloud+Architecture+Expert;💡+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -48,100 +48,98 @@
   <img src="https://img.shields.io/badge/📱-Mobile%20First-FFA07A?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </div>
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="80"/>
-        <h4>💻 What I Create</h4>
-        <p>Enterprise-grade web applications, RESTful APIs, microservices, and cloud-native solutions that scale seamlessly</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Developer.gif?raw=true" width="80"/>
-        <h4>🎯 How I Work</h4>
-        <p>Agile methodologies, clean architecture patterns, CI/CD pipelines, and collaborative development practices</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/happy.gif?raw=true" width="80"/>
-        <h4>💡 My Impact</h4>
-        <p>Delivering solutions that drive business growth, improve user engagement, and optimize operational efficiency</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=husseinadel7&custom_title=Hossam's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Core Tech Stack
 
 <div align="center">
-  <h3>⚡ Technologies I Master</h3>
+  <h3>💼 Full Stack .NET Development</h3>
 </div>
 
-<details>
-<summary><strong>🔧 Programming Languages</strong></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,java&theme=dark" alt="Programming Languages"/>
-</div>
-</details>
+### 🔥 Primary Technologies
 
-<details>
-<summary><strong>🖥️ Backend Technologies</strong></summary>
-<br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" alt="Backend"/>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="50"/>
+        <br><strong>C#</strong>
+        <br><sub>Primary Language</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="50"/>
+        <br><strong>.NET Core/5+</strong>
+        <br><sub>Backend Framework</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50"/>
+        <br><strong>Angular</strong>
+        <br><sub>Frontend Framework</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=sqlserver&theme=dark" width="50"/>
+        <br><strong>SQL Server</strong>
+        <br><sub>Primary Database</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🎯 Core Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>⚙️ Backend Development</h4>
+        <ul>
+          <li><strong>ASP.NET Core</strong> - Web APIs & MVC</li>
+          <li><strong>Entity Framework Core</strong> - ORM & Database</li>
+          <li><strong>SignalR</strong> - Real-time Communication</li>
+          <li><strong>Authentication & Authorization</strong></li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h4>🎨 Frontend Development</h4>
+        <ul>
+          <li><strong>Angular</strong> - SPA Development</li>
+          <li><strong>TypeScript/JavaScript</strong></li>
+          <li><strong>HTML5 & CSS3</strong></li>
+          <li><strong>Bootstrap & Responsive Design</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🚀 Additional Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,git,docker,postman,visualstudio,vscode&theme=dark" alt="Additional Technologies"/>
   <br><br>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SignalR-FF6C37?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20API-FF6C37?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=rest&logoColor=white"/>
 </div>
-</details>
 
-<details>
-<summary><strong>🎨 Frontend Technologies</strong></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind&theme=dark" alt="Frontend"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-</div>
-</details>
+### 📚 Currently Learning
 
-<details>
-<summary><strong>🗄️ Database & Storage</strong></summary>
-<br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Patterns-4F46E5?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D4?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </div>
-</details>
 
-<details>
-<summary><strong>☁️ Cloud & DevOps</strong></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,github&theme=dark" alt="Cloud & DevOps"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</div>
-</details>
-
-<details>
-<summary><strong>🛠️ Development Tools</strong></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,figma,postman&theme=dark" alt="Tools"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</div>
-</details>
+### 💡 What I Build
+- **Enterprise Web Applications** using .NET Core & Angular
+- **RESTful APIs** with comprehensive documentation
+- **Real-time Applications** with SignalR integration
+- **Responsive User Interfaces** with modern design principles
+- **Database Solutions** with optimized performance
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -185,7 +183,7 @@
       <td align="center" width="50%">
         <h3>💬 Ask Me About</h3>
         <img src="https://img.shields.io/badge/.NET%20Development-5C2D91?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
-        <img src="https://img.shields.io/badge/Angular%20%26%20React-DD0031?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+        <img src="https://img.shields.io/badge/Angular%20Development-DD0031?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
         <img src="https://img.shields.io/badge/Database%20Design-CC2927?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
         <img src="https://img.shields.io/badge/Cloud%20Architecture-FF9900?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
       </td>
@@ -218,29 +216,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/hossam-salama-034658217" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hossam.222salama@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/+201234567890" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/hossamsalama" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/husseinadel7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/hossamsalama" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-  </a>
-</div>
-
 ## 💡 Professional Impact
 
 <div align="center">
@@ -270,6 +245,29 @@
     <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
     <p><em>I believe in writing self-documenting code that tells a story and creates lasting value.</em></p>
   </blockquote>
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hossam-salama-034658217" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hossam.222salama@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/+201234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  </a>
+  <a href="https://t.me/hossamsalama" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/husseinadel7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/hossamsalama" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
