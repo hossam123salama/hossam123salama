@@ -109,7 +109,7 @@
 <summary><strong>🎨 Frontend Technologies</strong></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,vue,html,css,sass,bootstrap,tailwind&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind&theme=dark" alt="Frontend"/>
   <br><br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
@@ -119,7 +119,7 @@
 <summary><strong>🗄️ Database & Storage</strong></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,mongodb,redis&theme=dark" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" alt="Databases"/>
 </div>
 </details>
 
