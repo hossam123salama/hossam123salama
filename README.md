@@ -205,7 +205,8 @@
     </tr>
     <tr>
       <td>📄</td>
-      <td><strong>Resume:</strong> <a href="https://drive.google.com/file/d/1DeVaxGtTL97VN9mwfng5e2LlXLbPLBpT/view?usp=drive_link">📋 View My CV</a></td>
+     <td><strong>Resume:</strong> <a href="https://drive.google.com/file/d/1xIH_GOdz62IJ71Qja2SJ-oKUmiYFBjWo/view" target="_blank">📋 View My CV</a></td>
+
     </tr>
     <tr>
       <td>⚡</td>
