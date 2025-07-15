@@ -197,7 +197,8 @@
   <table>
     <tr>
       <td>👨‍💻</td>
-      <td><strong>Portfolio:</strong> <a href="https://github.com/husseinadel7?tab=repositories">🔗 Explore My Projects</a></td>
+     <td><strong>Portfolio:</strong> <a href="https://github.com/hossam123salama?tab=repositories" target="_blank">🔗 Explore My    Projects</a></td>
+
     </tr>
     <tr>
       <td>📫</td>
